@@ -4,7 +4,7 @@ title:      Hello World
 subtitle:   the first article
 date:       2019-10-21
 author:     Walnut
-header-img: img/post-bg-coffee.jpg
+header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
     - Life
