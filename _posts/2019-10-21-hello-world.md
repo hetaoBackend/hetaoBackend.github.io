@@ -44,6 +44,7 @@ tags:
 
 ### 月色真美
 
-> 把"I Love you"翻译成"月色真美"的，是太宰治还是夏目漱石呢？
+![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=42912291fc03738dca470470d272db34/902397dda144ad34a212dab6daa20cf431ad8556.jpg)
 
+> 把"I Love you"翻译成"月色真美"的，是太宰治还是夏目漱石呢？
 
